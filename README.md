@@ -4,6 +4,10 @@ Hello!
 
 I'm kokeroyama.
 
+My name is Miu.A.
+
+こんにちは、kokeroyamaです。
+
 [My Twitter](https://twitter.com/KAGETAKI_YUTA)/
 [My Scratch](https://scratch.mit.edu/users/kokeroyama/)/
 [My pixiv](https://www.pixiv.net/users/62250254)/
