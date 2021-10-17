@@ -4,8 +4,6 @@ Hello!
 
 I'm kokeroyama.
 
-My name is Miu.A.
-
 こんにちは、kokeroyamaです。
 
 [My Twitter](https://twitter.com/KAGETAKI_YUTA)/
