@@ -1,7 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kokero-web&show_icons=true&theme=radical)
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokero-web&layout=compact&theme=tokyonight)
-
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokero-web&show_icons=true&theme=radical)
 Hello!
 
 I'm kokeroyama.
