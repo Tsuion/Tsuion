@@ -5,15 +5,21 @@ Welcome to my profile !
 ## Self Introduction 
 
 Hello, my name is wowane.
+
 I live in Japan. 
+
 I am in the first year of junior high school. 
+
 I spend most of my time studying. 
 
 ## Skills
 
 The first programming language I was exposed to was Scratch. 
+
 That was when I was in elementary school.
+
 From there, I went on to learn languages such as HTML and CSS.
+
 Currently, I am exposed to languages such as Node.js and PHP. 
 
 ## Links
