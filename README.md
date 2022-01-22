@@ -30,7 +30,7 @@ https://jsf-2022.github.io/
 
 ## Links 🔗
 
-[My Twitter](https://twitter.com/_SuGaRiNe_)/
+[My Twitter](https://twitter.com/Tsuion_dev)
 
 [My Scratch](https://scratch.mit.edu/users/wowane/)
 
