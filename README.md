@@ -4,7 +4,7 @@
 Kaco/wowaneと申します。学生プログラマーの端くれです。コンパイラ言語や作曲、デジタルイラストなど色々なことに手を出しましたが結局どれも続かず、HTML・CSS・Scratch3.0に落ちつきました。
 ## Skills 📝
 なんとびっくり**全部独学**でやりました。
-
+<img src ="https://user-images.githubusercontent.com/83564310/159403884-d0b8d125-3b94-4700-bd56-d311344ac8ce.png" algin=right width="150px">
 HTML 
 - そらで書けるぐらいには使いこなせます。
 - 小学3年の時からいじってます。
