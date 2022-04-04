@@ -1,4 +1,4 @@
-![Aiwowane round](https://user-images.githubusercontent.com/83564310/161451107-cde5bf4f-3f41-4d96-ae96-72f9a5253845.jpg)
+![rounded_corners](https://user-images.githubusercontent.com/83564310/161646940-0bc0c62f-7b6d-4172-b25a-88e19c071e8c.jpg)
 
 ## Who is me?
 Ai/wowaneと申します。学生プログラマーの端くれです。コンパイラ言語や作曲、デジタルイラストなど色々なことに手を出しましたが結局どれも続かず、HTML・CSS・Scratch3.0に落ちつきました。
