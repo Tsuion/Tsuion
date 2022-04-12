@@ -1,7 +1,7 @@
-![rounded_corners](https://user-images.githubusercontent.com/83564310/161646940-0bc0c62f-7b6d-4172-b25a-88e19c071e8c.jpg)
+![Ryowowane_r](https://user-images.githubusercontent.com/83564310/162962499-770f948b-7d05-4f07-b05f-4e8c41f92254.jpg)
 
 ## Who is me?
-Ai/wowaneと申します。学生プログラマーの端くれです。コンパイラ言語や作曲、デジタルイラストなど色々なことに手を出しましたが結局どれも続かず、HTML・CSS・Scratch3.0に落ちつきました。
+Ryo/wowaneと申します。学生プログラマーの端くれです。コンパイラ言語や作曲、デジタルイラストなど色々なことに手を出しましたが結局どれも続かず、HTML・CSS・Scratch3.0に落ちつきました。
 ## Skills 📝
 なんとびっくり**全部独学**でやりました。  
 できないことは多いですが、その分できることをつかって理想に形に持っていこう！という精神に溢れています。   
