@@ -1,4 +1,4 @@
-![Ryowowane_r](https://user-images.githubusercontent.com/83564310/162962499-770f948b-7d05-4f07-b05f-4e8c41f92254.jpg)
+![rounded_corners](https://user-images.githubusercontent.com/83564310/164953618-d661b7c8-6568-4678-9cde-ef1b28f431d6.jpg)
 
 ## Who is me?
 Ryo/wowaneと申します。学生プログラマーの端くれです。コンパイラ言語や作曲、デジタルイラストなど色々なことに手を出しましたが結局どれも続かず、HTML・CSS・Scratch3.0に落ちつきました。
