@@ -23,6 +23,7 @@ Scratch3.0
 
 ![Stats(2)](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsuion&layout=compact)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tsuion)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src ="https://user-images.githubusercontent.com/83564310/159403884-d0b8d125-3b94-4700-bd56-d311344ac8ce.png" align=right width="150px">
 
