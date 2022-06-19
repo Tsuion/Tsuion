@@ -1,4 +1,4 @@
-![rounded_corners](https://user-images.githubusercontent.com/83564310/164953618-d661b7c8-6568-4678-9cde-ef1b28f431d6.jpg)
+![rounded_corners](https://raw.githubusercontent.com/Tsuion/Tsuion/main/wowane角丸.png)
 
 ## Who is me?
 Ryo/wowaneと申します。学生プログラマーの端くれです。コンパイラ言語や作曲、デジタルイラストなど色々なことに手を出しましたが結局どれも続かず、HTML・CSS・Scratch3.0に落ちつきました。
