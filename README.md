@@ -19,7 +19,7 @@ Scratch3.0
 - そのかわり、SNSとか「これScratchで作れるの！？」的な作品を量産してます。
 - 思いつきで作り始めるので続きません。
 
-![荻窪りょう's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsuion)
+![荻窪りょう's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsuion&show_icons=true&theme=vue&locale=ja)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tsuion)](https://github.com/ryo-ma/github-profile-trophy)
 
