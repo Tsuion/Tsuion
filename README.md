@@ -19,11 +19,8 @@ Scratch3.0
 - そのかわり、SNSとか「これScratchで作れるの！？」的な作品を量産してます。
 - 思いつきで作り始めるので続きません。
 
-![荻窪りょう's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsuion&show_icons=true&theme=vue&locale=ja)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tsuion)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img src ="https://user-images.githubusercontent.com/83564310/159403884-d0b8d125-3b94-4700-bd56-d311344ac8ce.png" align=right width="150px">
+![荻窪りょう's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsuion&show_icons=true&theme=vue&locale=ja&include_all_commits=true&line_height=26.9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsuion&show_icons=true&theme=vue&locale=ja&card_width=500px&langs_count=3)
 
 Organizer of JapanScratchersFes2022
 
