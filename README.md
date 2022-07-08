@@ -19,9 +19,9 @@ Scratch3.0
 - そのかわり、SNSとか「これScratchで作れるの！？」的な作品を量産してます。
 - 思いつきで作り始めるので続きません。
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsuion)](https://github.com/anuraghazra/github-readme-stats)
+![荻窪りょう's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsuion)
 
-![Stats(2)](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsuion&layout=compact)
+![Stats(2)](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsuion)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tsuion)](https://github.com/ryo-ma/github-profile-trophy)
 
