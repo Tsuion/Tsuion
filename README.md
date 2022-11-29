@@ -4,7 +4,7 @@
   
   **✨Japanese student creator, wowane💻** 
   
-  **wowane** is an eighth grade creator. He is mainly involved in programming, creating 3D models, and composing music.
+  **wowane** is an eighth grade creator. They mainly program, illustrate, and compose music.
   
   ----  
   [![wowane](wowaneさんへ(1).png)
