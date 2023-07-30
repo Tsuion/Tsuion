@@ -8,8 +8,7 @@
   
   ----  
   [![wowane](wowaneさんへ(1).png)
-HP](https://wowane.f5.si/)・
-[![Twitter](twitter.png)Twitter](https://twitter.com/Tsuion_dev)・[![Scratch](scratch.png)Scratch](https://scratch.mit.edu/users/wowane/)  
+HP](https://wowane.f5.si/)・[![Scratch](scratch.png)Scratch](https://scratch.mit.edu/users/wowane/)  
   
   ----
 
