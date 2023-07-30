@@ -1,4 +1,4 @@
-![wowane角丸](ryowowane集合ヘッダー角丸.jpeg)
+![wowane角丸](IMG_0052.png)
 
 <div align="center">
   
