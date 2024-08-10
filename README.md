@@ -2,13 +2,13 @@
 
 <div align="center">
   
-  **✨Japanese student creator, wowane💻** 
+  **✨Japanese student creator, Danhai💻** 
   
-  **wowane** is an eighth grade creator. They mainly program, illustrate, and compose music.
+  **Danhai** is an eighth grade creator. They mainly program, illustrate, and compose music.
   
   ----  
   [![wowane](wowaneさんへ(1).png)
-HP](https://wowane.f5.si/)・[![Scratch](scratch.png)Scratch](https://scratch.mit.edu/users/wowane/)  
+HP](https://wowane.f5.si/)
   
   ----
 
