@@ -1,18 +1,4 @@
-![wowane角丸](IMG_0052.png)
+# Hi there
+I'm student form Japan year 11.
 
-<div align="center">
-  
-  **✨Japanese student creator, Danhai💻** 
-  
-  **Danhai** is an eighth grade creator. They mainly program, illustrate, and compose music.
-  
-  ----  
-  [![wowane](wowaneさんへ(1).png)
-HP](https://wowane.f5.si/)
-  
-  ----
-
-</div>
-
-## Work
-- making a game
+I can use English, Japanese, and easy German.
